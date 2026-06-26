@@ -1,6 +1,6 @@
-<!-- БАННЕР (шапка) -->
+<!-- БАННЕР (шапка) - нежные персиково-лавандовые тона -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=Егор%20Кушнаренко&fontSize=60&fontAlignY=35&desc=Frontend%20Developer%20|%20Санкт-Петербург&descAlignY=55&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFDAB9&colorEnd=E6E6FA&textColor=3d3d3d&descColor=3d3d3d&height=200&text=Егор%20Кушнаренко&fontSize=60&fontAlignY=35&desc=Frontend%20Developer%20|%20Санкт-Петербург&descAlignY=55&animation=twinkling" width="100%" />
 </p>
 
 <!-- СТАТИЧНЫЙ ЗАГОЛОВОК -->
@@ -29,10 +29,10 @@
 
 | Цель | Статус |
 |------|--------|
-| ✅ Освоить **React Native** для мобильной разработки | В процессе |
+| ✅ Освоить **Angular, Vue, React** для мобильной разработки | В процессе |
 | ✅ Внести вклад в **Open Source** проекты | Ищу подходящие |
 | ✅ Улучшить **английский** до B1 | Активно занимаюсь |
-| ✅ Написать **3 статьи** по фронтенду на Хабр | Планирую |
+| ✅ Пройти **Dota 2** | Планирую |
 
 ---
 
@@ -90,7 +90,7 @@
 
 ---
 
-<!-- НИЖНИЙ БАННЕР -->
+<!-- НИЖНИЙ БАННЕР - такой же нежный градиент -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFDAB9&colorEnd=E6E6FA&height=120&section=footer" width="100%" />
 </p>
