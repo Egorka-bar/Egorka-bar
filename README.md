@@ -8,10 +8,11 @@
   <b style="font-size: 24px; color: #6F42C1;">👋 Привет, я Егор — Frontend-разработчик (junior) из Санкт-Петербурга</b><br/>
 </p>
 
-<!-- СОЦСЕТИ (только Telegram и Email) -->
+<!-- СОЦСЕТИ + РЕЗЮМЕ (с логотипом hh.ru) -->
 <p align="center">
   <a href="https://t.me/barmaleij"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:kushnarenko.03@inbox.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://spb.hh.ru/resume/27d2e3aeff100db6360039ed1f326a44415074"><img src="https://img.shields.io/badge/hh.ru-Резюме-FF6B6B?style=for-the-badge&logo=headhunter&logoColor=white" alt="Резюме на hh.ru"/></a>
 </p>
 
 ---
@@ -78,7 +79,13 @@
 ### 📊 Мои наиболее используемые языки
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egorka-bar&layout=compact&theme=tokyonight&locale=ru" alt="Топ языков" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egorka-bar&layout=compact&theme=catppuccin_latte&locale=ru" alt="Топ языков" width="60%" />
+</p>
+
+### 📈 Моя активность на GitHub
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Egorka-bar&theme=github-light&bg_color=FFFAF0&color=6F42C1&line=FFDAB9&point=6F42C1&area=true&hide_border=true" width="90%" />
 </p>
 
 ---
@@ -86,7 +93,8 @@
 ### 📫 Как со мной связаться
 
 - **Telegram**: [@barmaleij](https://t.me/barmaleij) – предпочтительный способ  
-- **Email**: [kushnarenko.03@inbox.ru](mailto:kushnarenko.03@inbox.ru)
+- **Email**: [kushnarenko.03@inbox.ru](mailto:kushnarenko.03@inbox.ru)  
+- **Резюме**: [hh.ru](https://spb.hh.ru/resume/27d2e3aeff100db6360039ed1f326a44415074)
 
 ---
 
