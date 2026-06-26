@@ -3,16 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=Егор%20Кушнаренко&fontSize=60&fontAlignY=35&desc=Frontend%20Developer%20|%20Санкт-Петербург&descAlignY=55&animation=twinkling" width="100%" />
 </p>
 
-<!-- АНИМИРОВАННЫЙ ТЕКСТ (печатается) -->
+<!-- СТАТИЧНЫЙ ЗАГОЛОВОК -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6F42C1&center=true&vCenter=true&width=500&lines=Привет,+я+Егор+👋;Frontend-разработчик+(junior);React+%2F+Vue.js+%2F+Angular;Люблю+настолки,+комиксы+и+крафтовое+пиво" alt="Typing SVG" />
+  <b style="font-size: 24px; color: #6F42C1;">👋 Привет, я Егор — Frontend-разработчик (junior) из Санкт-Петербурга</b><br/>
+  <span style="font-size: 18px;">React · Vue.js · Angular · Люблю настолки, комиксы и крафтовое пиво 🍺</span>
 </p>
 
 <!-- СЧЁТЧИК ПРОСМОТРОВ + СОЦСЕТИ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Egorka-bar&label=Просмотры&color=6F42C1&style=flat" alt="просмотры" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEgorka-bar&label=Просмотры&countColor=%236F42C1&style=flat" alt="Просмотры" />
   <a href="https://t.me/barmaleij"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://vk.com/e.kushnarenko0"><img src="https://img.shields.io/badge/ВКонтакте-4680C2?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/></a>
   <a href="mailto:kushnarenko.03@inbox.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -77,16 +77,10 @@
 
 ---
 
-### 📊 Моя статистика на GitHub
+### 📊 Мои наиболее используемые языки
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Egorka-bar&show_icons=true&locale=ru&theme=tokyonight" alt="Статистика GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egorka-bar&layout=compact&theme=tokyonight&locale=ru" alt="Топ языков" width="42%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Egorka-bar&theme=tokyonight" alt="Непрерывная активность" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Egorka-bar&theme=tokyonight&no-frame=true&row=2&column=3" alt="Трофеи" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egorka-bar&layout=compact&theme=tokyonight&locale=ru" alt="Топ языков" width="60%" />
 </p>
 
 ---
@@ -94,13 +88,11 @@
 ### 📫 Как со мной связаться
 
 - **Telegram**: [@barmaleij](https://t.me/barmaleij) – предпочтительный способ  
-- **ВКонтакте**: [vk.com/e.kushnarenko0](https://vk.com/e.kushnarenko0)  
-- **Email**: [kushnarenko.03@inbox.ru](mailto:kushnarenko.03@inbox.ru)  
-- **Телефон**: +7 (996) 916-11-05 / +7 (988) 935-13-49  
+- **Email**: [kushnarenko.03@inbox.ru](mailto:kushnarenko.03@inbox.ru)
 
 ---
 
-<!-- НИЖНИЙ БАННЕР (красивое завершение) -->
+<!-- НИЖНИЙ БАННЕР -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" />
 </p>
