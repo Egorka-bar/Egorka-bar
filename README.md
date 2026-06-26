@@ -6,12 +6,10 @@
 <!-- СТАТИЧНЫЙ ЗАГОЛОВОК -->
 <p align="center">
   <b style="font-size: 24px; color: #6F42C1;">👋 Привет, я Егор — Frontend-разработчик (junior) из Санкт-Петербурга</b><br/>
-  <span style="font-size: 18px;">React · Vue.js · Angular · Люблю настолки, комиксы и крафтовое пиво 🍺</span>
 </p>
 
-<!-- СЧЁТЧИК ПРОСМОТРОВ + СОЦСЕТИ -->
+<!-- СОЦСЕТИ (только Telegram и Email) -->
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEgorka-bar&label=Просмотры&countColor=%236F42C1&style=flat" alt="Просмотры" />
   <a href="https://t.me/barmaleij"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:kushnarenko.03@inbox.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
