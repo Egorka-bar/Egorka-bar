@@ -1,0 +1,1 @@
+![Моя игра на основе коммитов](Egorka_bar_space_shooter.gif)
