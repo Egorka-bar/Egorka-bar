@@ -82,13 +82,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egorka-bar&layout=compact&theme=catppuccin_latte&locale=ru" alt="Топ языков" width="60%" />
 </p>
 
-### 📈 Моя активность на GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Egorka-bar&theme=github-light&bg_color=FFFAF0&color=6F42C1&line=FFDAB9&point=6F42C1&area=true&hide_border=true" width="90%" />
-</p>
-
----
 
 ### 📫 Как со мной связаться
 
